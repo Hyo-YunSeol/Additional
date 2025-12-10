@@ -30,3 +30,20 @@ tcl 스크립트
 https://www.youtube.com/watch?v=QM6IDB5x27k
 <br>
 삼코치
+
+```
+유니버셜 시프트 레지스터 회사 판매 거래량 순위 찾거나
+논문을 찾아보면서
+이력서 포트폴리오에 적는 것
+virtuoso는 다른 점을 강요하려면 내가 했던 프로젝트 중에 내가 했던 결과를 둘째 치더라도 내가 했던 결과 중에 어떤 걸 해보았다 하면서 추가 부수적인 걸 해 놓는 게 좋을 것 ( 시간적으로 부족할 것이지만 그런 노력을 하면 도움이 될 것임)
+
+SYNTHESIS를 돌리고 문제가 없어야
+HDL로 만들 수 있다
+
+소스 넣고-> RUN SYNTHESIS까지 확인-> Create Block Design
+(정석은 라이브러리화해야함 Create and Package New IP)
+
+~CLK은 업카운터
+CLK은 다운카운터
+```
+
